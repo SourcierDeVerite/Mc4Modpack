@@ -1,0 +1,13 @@
+name = "Anvil Never Too Expensive"
+filename = "AnvilNeverTooExpensive-neoforge-1.21+-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df107309afccd4d704d72aae7af79798400c01c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6056726
+project-id = 670282

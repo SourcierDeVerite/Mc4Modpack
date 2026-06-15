@@ -1,0 +1,13 @@
+name = "Night Vision and Invisibility Toggle"
+filename = "nightvisiontoggleneo-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ae530af5f7c2ace0b81fa4cf6fcc341cf035e26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7003492
+project-id = 1348283
