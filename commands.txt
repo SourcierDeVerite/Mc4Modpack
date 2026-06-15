@@ -1,0 +1,11 @@
+Add mods:
+packwiz curseforge add <mod-name-or-url>
+packwiz refresh --build
+
+Update mods:
+packwiz update -a
+packwiz refresh --build
+
+Remove mod:
+packwiz remove <mod-name>
+packwiz refresh --build
