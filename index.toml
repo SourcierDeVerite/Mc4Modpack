@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3595ba816c9ef014350d0072b90715d99cda633c0b3c8aee7a64ce3402ade5de"
+hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "35f89136e9bed113613f23c93762ee08c6a9148fca951aabfe2cccb930a993c9"
+hash = "be0036035951859b6dd8ae612acbbdd403f838c284a180459d36726ca259933d"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "65b3488ff2104f458ab5fa16a7a274157f5d012d7013a9c24437ae9ca6c11d55"
+hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+hash = "2adc7a51ce009ed3e7c1e0d22fd71ad2c152796d8e0ab6cda1447bf89d6404bb"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0f574292f7cb4881ec88eeb942460260b452550f8d8a4669d99d1a9a922d089e"
+hash = "9a308f8d3d09130718b68e107a36ae59b71af992ce8e7ae762d677e0a905a726"
 metafile = true
 
 [[files]]
@@ -403,17 +403,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1600eda44f49ff0eebdacd09f4dac319c4b267940989b7d3deeee28cb6734a62"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9964cb89b15dfc04c8bda782f7c371c9fbc3113c089d47bf64ccc60f0f495359"
+hash = "117efb0558b6e473e5b0d6da06211133034b93a7497dcc5ecd537837300a29bf"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d865cada154a7987ec56f7ec5233e090ffad1bdb08922a100dc733c2995aab7a"
+hash = "d8c1903e1d2ff470c5d177bf1537c6a4fe8c78be270f06bb40e0a3be865dc1db"
 metafile = true
 
 [[files]]
@@ -428,10 +428,10 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "b1908d3251d722ec5c18f2483b8c56743d7cae91f644caa6d82e1b3b5b64f604"
+hash = "164d9000bf1f25aafd1963f1b5d6000205a79ae960e3cc89177ad20eced26b31"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a30086884843ddcd5b0f5d3d82d0942341c8bdc09adf3198a0621ab4751f7c16"
+hash = "4b78f845d8eb6f5b47d4cd9ad534dc5e1a11e45fafbcd4106b25479bd2e080b1"
 metafile = true
