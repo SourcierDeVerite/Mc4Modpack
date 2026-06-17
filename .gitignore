@@ -3,4 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Exclude Pycharm Project Files
 .idea

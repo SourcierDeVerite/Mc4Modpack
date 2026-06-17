@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "aa36ce3900dd95cbc8f8d08a1222f61c4e232b998fc4a647d9645ea115a6d7ad"
-
-[[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/mc-4-modpack.iml"
-hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "17ca93cea81ceeaec344b558599a2d3c7cfe87c5cb675e9b5f3c8a8a40c04606"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "49526bd9c2bde02f4cdf4b8bf3290f8d4b46418ac8579144c61af882e7848344"
-
-[[files]]
 file = "commands.txt"
 hash = "84bf516358b37e8d4222e4a5d9676b3a5b6436f7143cac601804d873a99121e8"
 
