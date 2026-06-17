@@ -9,4 +9,3 @@ packwiz refresh --build
 Remove mod:
 packwiz remove <mod-name>
 packwiz refresh --build
-
