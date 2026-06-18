@@ -317,6 +317,11 @@ hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "9f53043aa6e3791e9fc37be502aff8a51cd82f58a5ffbe2454caba4d7b705241"
+metafile = true
+
+[[files]]
 file = "mods/irons-lib.pw.toml"
 hash = "ec000d411bc7cb81fb2a9723e57e8568209e2a67eb7ce2fc7f0e35e4daf14043"
 metafile = true
