@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Jenkinsfile"
+hash = "7c27ddb78b9f785926185b6e9751e66ca76062ce5f3342c588b16b12a66054eb"
+
+[[files]]
 file = "commands.txt"
 hash = "84bf516358b37e8d4222e4a5d9676b3a5b6436f7143cac601804d873a99121e8"
 
@@ -262,6 +266,11 @@ hash = "766794fd8abb18e15b0bcbd2de09557120702f8e015b56012632ad4e4cae7408"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -294,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "41da9deeec5e9e6f3369f890a9f459d3dae3edf59c7072cb7c5dd26b953bf7d7"
 metafile = true
 
 [[files]]
