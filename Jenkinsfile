@@ -20,7 +20,7 @@ pipeline {
         stage("Run Packwiz") {
             steps {
                 sh """
-                docker exec mc-4 java -jar packwiz-installer-bootstrap.jar -g https://nginx.sourcierdeverite.duckdns.org/pack.toml
+                docker exec mc-4 java -jar packwiz-installer-bootstrap.jar -g https://nginx.sourcierdeverite.xyz/pack.toml
                 """
             }
         }
