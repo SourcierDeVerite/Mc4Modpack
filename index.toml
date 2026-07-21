@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Jenkinsfile"
-hash = "551a7ccb66da2c5833153311406434c6a3988b0142ee84d5f1dfe839802c864c"
+hash = "15b7c46bb10a686cfcd42a0c795abb39354ba0a0b411451354c32d4a8db37f97"
 
 [[files]]
 file = "commands.txt"
