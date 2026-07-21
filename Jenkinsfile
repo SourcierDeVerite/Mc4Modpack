@@ -4,7 +4,11 @@ pipeline {
     stages {
         stage("Clone repo") {
             steps {
-                git url: "https://github.com/SourcierDeVerite/Mc4Modpack.git", branch: "master"
+                git(
+                    url: "https://github.com/SourcierDeVerite/Mc4Modpack.git",
+                    branch: "master",
+                    credentialsId: 'github'
+                )
             }
         }
 
