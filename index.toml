@@ -231,6 +231,11 @@ hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "8c6d5170ca4f3e42a3ff45ec2891a24fef98ab136f3e427fc34af23564d9e7dc"
 metafile = true
@@ -358,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "5fe387bcad2d72c9bdd7047c19fed3959dcc65e2615e188ae743c517c08209df"
+metafile = true
+
+[[files]]
+file = "mods/fetzis-displays.pw.toml"
+hash = "64b9927b2b302f986cb26b98d7154a153375f5405e28bd45cf8804c2120abfc5"
 metafile = true
 
 [[files]]

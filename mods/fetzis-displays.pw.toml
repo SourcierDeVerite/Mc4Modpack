@@ -1,0 +1,13 @@
+name = "Fetzi's Displays"
+filename = "fetzisdisplays-neoforge-1.1.0-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00186943630fc4f0aef25988563e755c3270b61f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7956568
+project-id = 1257994
