@@ -221,10 +221,6 @@ file = "config/waystones-common.toml"
 hash = "5cb27a5e22bd722c4cbc8bc43f7be95f48940704c5f15c6adc8c44abf0c5cd37"
 
 [[files]]
-file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
-hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
-
-[[files]]
 file = "mods/anvil-never-too-expensive.pw.toml"
 hash = "9451d3e47aa74425c4de5fe855c6c7a49280c16ab3c08a00056ebc3e98c37780"
 metafile = true
@@ -325,11 +321,6 @@ hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
-metafile = true
-
-[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "b8871b2a91d1eb68d187060e8f6e34d9cd2b407677587e9481b4b9eb042afab0"
 metafile = true
@@ -373,6 +364,10 @@ metafile = true
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
+
+[[files]]
+file = "mods/design-n-decor-1.21.1-2.2b.jar"
+hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
